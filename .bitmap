@@ -12,16 +12,9 @@
     "checkout/shipping-estimate": {
         "name": "checkout/shipping-estimate",
         "scope": "acme-modular.checkout",
-        "version": "74de965b039ffec965af833c4eae9ee0096d223b",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "checkout/checkout/shipping-estimate"
     },
-    "$schema-version": "17.0.0",
-    "_bit_lane": {
-        "id": {
-            "name": "org-token-check",
-            "scope": "acme-modular.checkout"
-        },
-        "exported": true
-    }
+    "$schema-version": "17.0.0"
 }
