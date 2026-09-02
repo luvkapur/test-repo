@@ -12,9 +12,16 @@
     "checkout/shipping-estimate": {
         "name": "checkout/shipping-estimate",
         "scope": "acme-modular.checkout",
-        "version": "0.0.4",
+        "version": "23b7432dde0999b92bb83bbb0c3e2fdb26e8350f",
         "mainFile": "index.ts",
         "rootDir": "checkout/checkout/shipping-estimate"
     },
-    "$schema-version": "17.0.0"
+    "$schema-version": "17.0.0",
+    "_bit_lane": {
+        "id": {
+            "name": "ui-default-payload",
+            "scope": "acme-modular.checkout"
+        },
+        "exported": true
+    }
 }
