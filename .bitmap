@@ -12,9 +12,16 @@
     "checkout/shipping-estimate": {
         "name": "checkout/shipping-estimate",
         "scope": "acme-modular.checkout",
-        "version": "0.0.3",
+        "version": "90d52364cb487aa261bb7b25f99d19b0efd64b81",
         "mainFile": "index.ts",
         "rootDir": "checkout/checkout/shipping-estimate"
     },
-    "$schema-version": "17.0.0"
+    "$schema-version": "17.0.0",
+    "_bit_lane": {
+        "id": {
+            "name": "phase-b-live",
+            "scope": "acme-modular.checkout"
+        },
+        "exported": true
+    }
 }
