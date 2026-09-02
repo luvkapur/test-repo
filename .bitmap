@@ -12,7 +12,7 @@
     "checkout/shipping-estimate": {
         "name": "checkout/shipping-estimate",
         "scope": "acme-modular.checkout",
-        "version": "90d52364cb487aa261bb7b25f99d19b0efd64b81",
+        "version": "0f293702ce732088b6bee695bbc5aa3624c4e35b",
         "mainFile": "index.ts",
         "rootDir": "checkout/checkout/shipping-estimate"
     },
