@@ -16,3 +16,5 @@ export function shippingEstimate(weightKg: number, distanceKm: number): number {
 // org access token export check
 
 // write-token export check
+
+// ui-default payload check
